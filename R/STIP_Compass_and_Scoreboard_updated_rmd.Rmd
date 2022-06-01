@@ -34,6 +34,8 @@ library(EconGeo)
 
 More data: https://stip.oecd.org/stip/pages/stipDataLab
 
+test change 
+
 ```{r}
 #load the dataset into our working environment
 stip_0 <- read_delim('../data//STIP_Survey.csv', '|', escape_double = FALSE, trim_ws = TRUE)
