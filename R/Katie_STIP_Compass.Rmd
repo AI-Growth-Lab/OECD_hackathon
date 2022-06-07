@@ -803,6 +803,7 @@ Keyword_categories <- keyword_dat %>%
             Tfidf_neutral = sum(tfidf_neutral, na.rm = T)) %>%
  
   #Assigned new category 
+  #Note: Remove the neutral keywords if you only prefer keywords that are clearly belong to one category
   mutate(assigned_category = case_when(Tfidf_KT > Tfidf_cocreate & Tfidf_KT > Tfidf_neutral ~ 'Knowledge Transfer',
                                   Tfidf_cocreate > Tfidf_KT & Tfidf_cocreate > Tfidf_neutral~ 'Co-creation',
                                   Tfidf_neutral > Tfidf_KT & Tfidf_neutral > Tfidf_cocreate~ 'Neutral')) %>%
@@ -821,6 +822,7 @@ Keyword_categories <- keyword_dat %>%
 
 ### Method 2: Venn diagram categorization
 This one return keywords in each policy docs. When distinct the 'name', it returns 544 distinct keywords (There are 598 distinct keywords in Keyword_categories in Method 1 because we include Neutral keywords in Method 1, which is not going to be used for our method). 
+
 The number of distinct keywords are different because of the different methods to calculate between TFIDF and Venn Diagram.
 ```{r}
 Keyword_categories_2 <- tag_dfm %>% as.data.frame() %>% 
@@ -1677,6 +1679,7 @@ doc_cat_2 %>%
 ```
 
 ### 5.3.4 Yearly Budget range?
+The weight is based on suggestion from STIP
 ```{r}
 doc_cat_2 %<>%
   mutate(budget_weight = case_when(YearlyBudgetRange == "Unknown" | YearlyBudgetRange == "Not applicable"~ 0,
