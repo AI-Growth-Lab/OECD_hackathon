@@ -11,7 +11,7 @@ Hi guys, how is it going? Could you all maybe give me a hand and do the followin
 - The edge represents the number of policy initiatives which have more than one theme in the particular year (2016,2017,2021).
 - Themes picked for cocreation and knowledge transfer: TH42,TH43,TH47,TH46,TH44,TH41
 - Color shows communities which separate policies clearly based on themes, meaning that the majority of the policies have one main theme. 
-- The codes for the plot can be found in Katie_STIP_Compass.Rmd under 4.Network viz of Indicators By themes
+- The codes for the plot can be found in [Katie_STIP_Compass.Rmd](OECD_hackathon/R/Katie_STIP_Compass.Rmd) under 4.Network viz of Indicators By themes
 
 **Actors network folder:**
 - Actor A is connected to Actor B if they both are the target groups of one policy.
