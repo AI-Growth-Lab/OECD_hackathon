@@ -9,6 +9,7 @@ Hi guys, how is it going? Could you all maybe give me a hand and do the followin
 - The policy initiatives are linked based on the common themes.
 - The node itself is the policy initiative.
 - The edge represents the number of policy initiatives which have more than one theme in the particular year (2016,2017,2021).
+- Themes picked for cocreation and knowledge transfer: TH42,TH43,TH47,TH46,TH44,TH41
 - Color shows communities which separate policies clearly based on themes, meaning that the majority of the policies have one main theme. 
 - The codes for the plot can be found in Katie_STIP_Compass.Rmd under 4.Network viz of Indicators By themes
 
