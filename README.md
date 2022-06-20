@@ -17,11 +17,11 @@ Covid-19 response initiatives are particularly characteristic of a co-creation a
 
 ### Possible data: Inspiration
 
-* TIP Strategies
+* TIP Strategies (Python folder):
   * Example keywords: knowledge_transfer, co-creation, commercialisation, technology_transfer, clusters, intellectual_property
-* STIP Compass:
+* STIP Compass (R folder):
   * Collaborative research and innovation (TH42, 537 policies); Commercialisation of public research (TH, 314 policies); Cluster policies (TH47, 278 policies); Intellectual property rights in public research (TH46, 163 policies); Intersectoral mobility (TH44, 113 policies); Transfer and linkage strategies (TH41, 183 policies)
-* STI.Scoreboard:
+* STI.Scoreboard (R folder):
   * HERD/GOVERD financed by firms; innovative firms cooperating with HEIs and PRIs; ...
 
 ## Reources
