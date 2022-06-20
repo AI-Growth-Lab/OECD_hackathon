@@ -28,4 +28,4 @@ Hi guys, how is it going? Could you all maybe give me a hand and do the followin
 - The codes for the plot can be found in [Katie_STIP_Compass.Rmd](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/R/Katie_STIP_Compass.Rmd) under <2. Network visualization of topics>
 
 **All plots for PPT from STIP Compass:**
-- Graphs which are analyzed using STIP Compass database in [Katie_STIP_Compass.Rmd](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/R/Katie_STIP_Compass.Rmd) under <section 1.6 Analyze policy text> and shown on the PPT_Hackathon.pptx are in this folder
+- Graphs which are analyzed using STIP Compass database in [Katie_STIP_Compass.Rmd](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/R/Katie_STIP_Compass.Rmd) under <section 1.6 Analyze policy text> and shown on the [PPT_Hackathon.pptx](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/PPT%20HACKATHON%20.pptx) are in this folder
