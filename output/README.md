@@ -19,3 +19,10 @@ Hi guys, how is it going? Could you all maybe give me a hand and do the followin
 - ECON = Economic actors. FA = Firms by age. FS = Firms by size. GOV = government sectors. INT = intermediaries. REO = Researcher and Education Organization. RST = Researchers, Students, and Teachers.  SOC = Social groups.
 - See more categories in Github's data folder > STIP_Survey_Codebook_2021.xlsx > 'TargetGroups' tab
 - The codes for the plot can be found in Katie_STIP_Compass.Rmd under 4.Network viz of Indicators By target groups
+
+**Network by topics folder:**
+- Network_co = Cocreation network of STIP keywords
+- Network_kt = Knowledge Transfer network of STIP keywords
+- _1 = nodes colored by attribute_2 (See in Katie_STIP_Compass.Rmd)
+- _2 = nodes colored by assigned_category (See in Katie_STIP_Compass.Rmd)
+- The codes for the plot can be found in Katie_STIP_Compass.Rmd under 2. Network visualization of topics
