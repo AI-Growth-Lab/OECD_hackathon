@@ -31,6 +31,6 @@ Hi guys, how is it going? Could you all maybe give me a hand and do the followin
 - Graphs which are analyzed using STIP Compass database in [Katie_STIP_Compass.Rmd](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/R/Katie_STIP_Compass.Rmd) under <section 1.6 Analyze policy text> and shown on the [PPT_Hackathon.pptx](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/PPT%20HACKATHON%20.pptx) are in this folder
 
 **KT and KCC Keywords Analysis, Similarity Network and Community Detection, and TFIDF-W2V folders**
-- These three folders analyse TIP Strategies dataset using Python.
+- These three folders analyse [TIP Strategies](https://www.dropbox.com/s/vd4ky6kv1a3cmho/strategies_final.RData?dl=0) dataset using Python.
 - See [TFIDF-W2V python script](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/Python/TFIDF-W2V-UMAP-Part1.py)
 - See [Similarity Network and Community Detection python script](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/Python/SimilarityNetwork-CommunityDetection-Keywordsanalysis-Part2.py)
