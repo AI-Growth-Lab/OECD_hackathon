@@ -14,6 +14,7 @@ knowledge transfer' approach, e.g.
   * STIP Compass has a thematic portal dedicated to this topic, which offers further insights on these definitions: https://stip.oecd.org/knowledge-transfer/
   * Analysis could be extended to the Covid Watch policy data to explore whether the
 Covid-19 response initiatives are particularly characteristic of a co-creation approach?
+* [Keyword Data:](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/data/keyword_data_new.csv) provides a list of categorized keywords presented in the 'Tag' column in STIP Compass. The keywords have been assigned a category (Co-creation, Knowledge Transfer, Both) based on the weight given in STIP Compass. This data is used for triangulation with TIP Strategies and STI Scoreboard. 
 
 ### Possible data: Inspiration
 
