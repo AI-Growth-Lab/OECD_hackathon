@@ -17,7 +17,7 @@ Hi guys, how is it going? Could you all maybe give me a hand and do the followin
 - Actor A is connected to Actor B if they both are the target groups of one policy.
 - Size of the edge represents number of policy initiatives that target both target groups/actors.
 - ECON = Economic actors. FA = Firms by age. FS = Firms by size. GOV = government sectors. INT = intermediaries. REO = Researcher and Education Organization. RST = Researchers, Students, and Teachers.  SOC = Social groups.
-- See more categories in Github's data folder > STIP_Survey_Codebook_2021.xlsx > 'TargetGroups' tab
+- See more categories in Github's data folder > [STIP_Survey_Codebook_2021.xlsx](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/data/STIP_Survey_Codebook_2021.xlsx) > 'TargetGroups' tab
 - The codes for the plot can be found in [Katie_STIP_Compass.Rmd](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/R/Katie_STIP_Compass.Rmd) under <4.Network viz of Indicators By target groups>
 
 **Network by topics folder:**
