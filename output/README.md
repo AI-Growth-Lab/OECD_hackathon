@@ -25,7 +25,7 @@
 
 **KT and KCC Keywords Analysis, Similarity Network and Community Detection, and TFIDF-W2V folders:**
 - These three folders analyse [TIP Strategies](https://www.dropbox.com/s/vd4ky6kv1a3cmho/strategies_final.RData?dl=0) dataset using Python.
-- See [TFIDF-W2V python script](https://github.com/AI-Growth-Lab/OECD_hackathon/blob/main/Python/TFIDF-W2V-UMAP-Part1.py)
+- See [TFIDF-W2V python script](https://colab.research.google.com/drive/1JeQePLoFFHDJnygUL3azRUHuv1BHrWhx#scrollTo=J2bVoDxRNryR)
 - See [Similarity Network and Community Detection python script](https://colab.research.google.com/drive/1mxuV8BDKe0vo2VxCbnI92VM6YaMkb2je?usp=sharing)
 
 **PCA and Clustering (STI scoreboard):**
